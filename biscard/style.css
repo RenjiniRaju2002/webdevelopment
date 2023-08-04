@@ -1,0 +1,28 @@
+body {
+    margin:20px;
+    background-color:white;
+    }
+    
+    .avatar {
+    width:150px;
+    border-radius: 60px;
+    }
+    
+    .card {
+    width:400px;
+    height:150px;
+    margin:200px auto;
+    padding:20px;
+    display:flex;
+    justify-content:space-around;
+    text-align:center;
+    background:#d9e6f3;
+    border-bottom:6px solid #8d80c0;
+    padding:10px;
+    font-family:'trebuchet ms';
+    font-style:oblique;
+    font-weight:bolder;
+    font-variant:small-caps;
+    letter-spacing:1px;
+    cursor:pointer
+    }
